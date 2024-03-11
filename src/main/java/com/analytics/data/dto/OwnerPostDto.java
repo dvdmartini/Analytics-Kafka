@@ -1,4 +1,4 @@
-package com.store.car.dto;
+package com.analytics.data.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Builder;
